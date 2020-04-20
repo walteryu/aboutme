@@ -1,3 +1,7 @@
-# Profile Page - Walter Yu
+# Profile Page
 
-Profile and landing page; more to follow!
+## Walter Yu
+
+### About Me
+
+Civil Engineering and Data Science
