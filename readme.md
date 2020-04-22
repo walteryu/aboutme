@@ -1,15 +1,13 @@
-# Profile Page
+# Walter Yu
 
-## Walter Yu
-
-### About Me
+## About Me
 
 Civil Engineering and Data Science
 
-### Skills
+## Skills
 
 Python, R, SQL, Ruby and Javacript
 
-### Contact
+## Contact
 
 [Github](https://github.com/walteryu)
