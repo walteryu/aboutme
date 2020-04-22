@@ -2,12 +2,12 @@
 
 ## About Me
 
-*Civil Engineering and Data Science*
+**Civil Engineering and Data Science**
 
 ## Skills
 
-*Python, R, SQL, Ruby and Javacript*
+**Python, R, SQL, Ruby and Javacript**
 
 ## Contact
 
-*[Github](https://github.com/walteryu)*
+**[Github](https://github.com/walteryu)**
